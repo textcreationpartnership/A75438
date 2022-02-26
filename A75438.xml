@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the objections, against making the river Darwent navigable</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75438</idno>
+            <idno type="STC">Wing A3427B</idno>
+            <idno type="STC">ESTC R230829</idno>
+            <idno type="EEBO-CITATION">99899688</idno>
+            <idno type="PROQUEST">99899688</idno>
+            <idno type="VID">134547</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134547)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2416:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the objections, against making the river Darwent navigable</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>River engineering --  England --  Early works to 1800.</term>
+               <term>Derwent River (Derbyshire, England) --  Early works to 1800.</term>
+               <term>Inland navigation --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:134547:1"/>
+            <head>An ANSWER to the Objections, againſt Making the River Darwent Navigable.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection </seg>I</label>
+               <hi>This Navigation wi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſpoil the Fords of the ſaid River, remove Mr. <hi>Thomas Stanhope's</hi> Two Private Horſe-Bridges over it, and ruin his Mills upon it; And the ſaid Mr. <hi>Stanhope,</hi> cannot be Recompens'd, nor the County Accomodated.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> THE River <hi>Trent,</hi> into which the <hi>Darwent</hi> runs, is Famous for its many <hi>Fords,</hi> and yet is Navigable: And in this Part of the River <hi>Darwent,</hi> are but <hi>Two Fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds</hi> of any Note; and Thoſe but ſeldom us'd: But there is never a <hi>Ford</hi> in it, but what is deeper than any of the <hi>Fords</hi> in the <hi>Na<g ref="char:EOLhyphen"/>vigable Part</hi> of the River <hi>Trent:</hi> And therefore, the <hi>Fords</hi> in <hi>Darwent</hi> will not be Alter'd; for they are Deep enough already; and will carry as Great a Burthen, as can be carry'd down, or brought up the River <hi>Trent:</hi> Mr. <hi>Stanhope</hi>'s Bridges may be ſtill enjoy'd, without Prejudice to the <hi>Navigation,</hi> by the Help of <hi>Draw Bridges,</hi> to be Drawn-up while the Boats paſs; and, according to the <hi>Bill,</hi> cannot be touched, till he have Satisfaction: And the <hi>Mills</hi> will not be prejudic'd by the <hi>Navigation;</hi> for the <hi>Boats</hi> will Paſs and Repaſs the <hi>Back-Water;</hi> and a <hi>Lock</hi> made in the <hi>Wear,</hi> will (when the <hi>Boats, &amp;c.</hi> come to it) open, to give them Paſſage; and then cloſe again, and keep the <hi>Water</hi> for the Uſe of the <hi>Mills;</hi> which will not be hindred half an Hour, at any Time: And 'tis Provided by the <hi>Bill,</hi> That Satisfaction be made, before the <hi>Weares</hi> be touched. My Lord <hi>Cheſterfield</hi> has likewiſe <hi>Mills</hi> upon the ſaid River; and is Conſenting to the <hi>Navigation:</hi> And there are no Other upon this Part of the River, but His, and Mr. <hi>Stanhope</hi>'s.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>II</label>
+               <hi>That the River is ſo Rapid, as to Wear away the Ground on each Side, unleſs defended by Water-Works and Fleightering; which the Navigators will be em<g ref="char:EOLhyphen"/>power'd to deſtroy, in whoſe Land they pleaſe; and ſo give away his Land: Beſides, this will glut <hi>Derby</hi> Market with Corn from Remote Parts; and ſo Abate the Price, to the Damage of One Hundred Towns in <hi>Nottingham-Shire, Leice<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter-Shire,</hi> and <hi>D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rby Shire,</hi> who Reſort thither to Sell their Corn.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> BOTH Parts of this <hi>Objection,</hi> Repreſent the <hi>Navigation,</hi> as Prejudicial in thoſe very Inſtances, wherein it is highly Advantageous:
+<list>
+                  <item>For, by the <hi>Bill,</hi> the <hi>
+                        <g ref="char:V">Ʋ</g>ndertakers</hi> are, from Time to Time, after the River is made <hi>Navigable,</hi> to Stop and Repair the <hi>Breaches</hi> and <hi>Hurts,</hi> in the <hi>Banks</hi> thereof, at their own Proper-Coſts; which will eaſe the Owners, of the Adjoyning Lands, of the Expenceful <hi>Water-Works</hi> and <hi>Fleighterings;</hi> which, they complain, the Rapid Courſe of the River, now obliges them to make: And, as to the <hi>Corn,</hi> the <hi>Navigation</hi> will rather Advantage thoſe Towns, who uſe <hi>Derby</hi>-Market: For, as This will bring more Carriage of <hi>Cheeſe, Butter,</hi> &amp;c. to <hi>Derby,</hi> That will occaſion greater Quantities of <hi>Mault</hi> to be carry'd back; and then the Market will carry off more of their <hi>Barley.</hi>
+                  </item>
+                  <item>(2.) Who-ever will take the Pains to make the Compariſon, will find, that all Sorts of <hi>Corn,</hi> for theſe <hi>Twelve</hi> Months laſt, (to go no further back) have been as Cheap, and ſome Sorts Cheaper in <hi>Derby</hi>-Market, than at <hi>Nottingham</hi> and <hi>Newarke,</hi> which lye lower upon <hi>Trent;</hi> And if <hi>Corn</hi> cannot be brought from the Remote Parts, (the <hi>Objectors</hi> are ſo Jealous of) to thoſe Towns, ſo as to ſell it Cheaper than at <hi>Derby;</hi> there is no Danger of glutting the Cheaper, and more diſtant Market of <hi>Derby</hi> with it.</item>
+                  <item>(3.) There is a Fair Proſpect of ſending <hi>Corn</hi> down oftner, than it will be brought up, from the Remote Parts: For, what we can carry down the Stream for <hi>Three Pence,</hi> (ſuppoſe) will coſt <hi>Twelve Pence</hi> to bring up againſt it: And therefore, if <hi>Corn</hi> be ſo much Dearer below, as to pay that <hi>Three Pence</hi> with Advantage, it will be ſent down: Whereas, before we can fetch it up, it muſt be ſo much Dearer at <hi>Derby,</hi> than at thoſe Places below, as to pay the <hi>Twelve Pence,</hi> with Ad<g ref="char:EOLhyphen"/>vantage: And as, in Truth, conſiderable Quantities of <hi>Corn</hi> have, of late, been ſent down the River; ſo, in all Times, it has been ſent down more fre<g ref="char:EOLhyphen"/>quently, than brought up: For this has never happen'd, but in Time of great Scarcity, when the Country could not Subſiſt, without Supply.</item>
+                  <item>(4.) This River will Eaſe the Carriage, and bring <hi>Corn</hi> from <hi>Leiceſter-Shire,</hi> and thoſe Parts of <hi>Nottingham-Shire</hi> and <hi>Derby-Shire,</hi> that have moſt Benefit of <hi>Derby</hi>-Market: And of this, ſeveral Towns in <hi>Leiceſter-Shire</hi> are ſenſible, and have Petition'd for it.</item>
+               </list>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>III</label>
+               <hi>Corn will be Sold at <hi>Derby,</hi> which elſe would be Sold and Toll'd at <hi>Nottingham;</hi> where, out of the Tolls, they Pay the King a Fee-Farm Rent of Sixty Pounds <hi>per Annum,</hi> and Maintain a Bridge at the Yearly Expence of Two Hundred Pounds.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> THAT Rent is reſerv'd out of Lands granted to them by the <hi>Crown,</hi> and not out of the <hi>Toll:</hi> And they have Lands ſettled, for Repair of the Bridge, ſufficient to keep it in Repair: Nor ought the Profit of the Town of <hi>Nottingham,</hi> over-ballance the Publick Good, and the Advantage of all thoſe many Pla<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, which would have Benefit by this <hi>Navigation.</hi> Nor will <hi>Nottingham,</hi> in Truth, loſe much of its <hi>Toll;</hi> for, if the Trade of <hi>Derby</hi> exceed that of <hi>Nottingham,</hi> ſo that <hi>Barley</hi> Fall with Them, and Riſe with Us, and that We have Occaſion for Their <hi>Barley,</hi> We ſhall Buy in their Market; as, is well known, was formerly done, till <hi>Nottingham</hi> (by the Benefit of their <hi>Navigation,</hi> and the Carriage of Goods <hi>Thither,</hi> by Thoſe who would not willingly Return Empty; and therefore, took back <hi>Mault</hi> from <hi>Thence,</hi> to Places which <hi>Derby</hi> us'd to Supply) gain'd a great Part of that <hi>Mault</hi>-Trade, which <hi>Derby</hi> was before in Poſſeſſion of: And <hi>Derby</hi> pays a Fee-Farm-Rent of <hi>One Hundred</hi> Pounds <hi>per Annum,</hi> to the King's Majeſty, and Re<g ref="char:EOLhyphen"/>pairs a very Large <hi>Bridge</hi> over the River <hi>Darwent,</hi> beſides ſeveral other ſmaller <hi>Bridges;</hi> and has only the <hi>Toll</hi> to Enable them to Pay the ſame.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>IV</label>
+               <hi>That the Abating of the Price of Corn, will diſcourage Tillage, and deſtroy the Breed of Horſes employ'd therein; which are ſome fit for Coach, and ſome for War.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> THIS is urg'd, with Reſpect to the Publick; and ſo it is frivolous; Becauſe the Diſcouraging <hi>Tillage</hi> Here, by fetching <hi>Corn</hi> Cheaper from Other Places, is an Encourag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment to it in thoſe Other Places; and will There employ as many Able Horſes, and more, if the Cheapneſs of <hi>Corn</hi> cauſes more to be ſpent: But, take it either in Relation to the <hi>Publick,</hi> or to thoſe <hi>Counties,</hi> and the <hi>Anſwer</hi> to the <hi>Second Objection</hi> Anſwers it: And We may urge, in Favour of the <hi>Navigation,</hi> That it will (as has been ſhew'd) Encourage <hi>Tillage;</hi> and conſequently, more of theſe uſeful <hi>Horſes,</hi> and cauſe more of them to be Bred: And however the Carriage from <hi>Wilne-Ferry</hi> (wither <hi>Trent</hi> is now Navigable) to <hi>Derby,</hi> being now but <hi>Eight</hi> Pence for a <hi>Quarter of Corn,</hi> the <hi>Navigation</hi> will Save but that <hi>Eight Pence;</hi> which can never deſtroy <hi>Tillage,</hi> tho' it ſhould ſo much leſſen the <hi>Farmer</hi>'s Profit.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>V</label>
+               <hi>That, as to the High Ways to be ſaved by the Navigation, they extend but Five Miles; and none that Repairs Them, deſires it.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label>'TIS a real Benefit, tho' ſmall; and tho' it were neglected: But, in Fact, ſeveral of them have Joyn'd in that <hi>Petition;</hi> which is Preſented by the In<g ref="char:EOLhyphen"/>habitants in and near <hi>Derby.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>VI</label>
+               <hi>It was never known, That ever any <hi>Trent, </hi> or <hi>Darwent</hi> Water-Man, ever made a Sea-man.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> Tho' this were true; yet greater Numbers may yield ſome <hi>Sea-men,</hi> tho' very few have yielded none: And, tis certain, that they are, by This, better prepar'd to become <hi>Sea-men,</hi> as much as <hi>Water-men,</hi> in any River, are; and more than the <hi>Water-men,</hi> that Row the <hi>Thames</hi>-Wherries; which yet have afforded <hi>Sea-men:</hi> But, however the Fact have heretofore been, the Nature of the Thing ſpeaks Unanſwerably on Our Behalf.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>VII</label>
+               <hi>There are more, by Thouſands, <hi>ſet on</hi> Work by this Preſent Land-Carriage of Lead, Corn, <hi>&amp;c.</hi> than will be employ'd in the Water, upon any Occaſion whatſoever.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> THIS is the only true <hi>Objection,</hi> allowing for the <hi>Hyperbole;</hi> but it is Frivolous; for, during the <hi>Navigation,</hi> there will be many more ſet on Work for the Land-Carriage, than will be imployed upon the Water; and there are not more ſet on Work now, than will be then, by Land and Water; for all the ſaid Land-Carriers will be Imployed then, that are now, except thoſe who carry from <hi>Derby</hi> and <hi>Alleſtry</hi> to <hi>Wilne-Ferry;</hi> and they are not ſo many, as will be Imployed upon the Water; and are all <hi>Derby</hi>-Men, and Conſenting: For thoſe that bring Lead out of the <hi>Peake,</hi> will carry as they do, or further; for they now lay it down at <hi>Derby,</hi> or at <hi>Alleſtry,</hi> two Miles before they come to <hi>Derby;</hi> but then they'l carry it all to <hi>Derby;</hi> and the ſame Carriers that carry from other Parts to <hi>Wilne-Ferry,</hi> will carry to <hi>Derby:</hi> And if ſome Miles are cut off, which will leſſen that Price, 'tis but leſſened as the Labour is, and their Returns will be quicker; and they'l have the Advantage of being Loaden Home again.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> BUT, on the Other Hand as That Shortens the Land Carriage of very great Quanties of <hi>Lead, Cheeſe, Butter,</hi> and other Commodities, which are now ſent to <hi>Wilne</hi>-Ferry; ſo it Delivers them from the Impoſitions, and Hard Uſage they find, by reaſon of the <hi>Monoply</hi> There: For, there is but One Perſon, that is the Owner of the <hi>Wharfe</hi> There; and, by a particular Priviledge, carries Goods up and down the River; and ſo may and does Exact what Price he pleaſes; and is a <hi>Trader</hi> and <hi>Merchant,</hi> as well as a <hi>Water-man;</hi> and ſo himſelf may, and does take the Advantage of a Good Market, to the Prejudice of other <hi>Traders,</hi> whoſe Goods he then neglects to Carry; and they muſt let their Goods lie there, until it be his Pleaſure to Carry them down the River; or give him his own Rates; or ſend them to <hi>Nottingham,</hi> which is <hi>Twelve</hi> Miles further, by Land Carriage; and the ſame Caſe up the River, from <hi>Gainsburrow</hi> to <hi>Wilne</hi> Ferry: All which would be Sa<g ref="char:EOLhyphen"/>ved, in Making the ſaid River <hi>Darwent</hi> Navigable.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Note. </seg>
+               </label> THE <hi>Undertakers</hi> do it at their own Charge; and no <hi>Mills</hi> will be Pull'd down, nor Deſtroy'd; only <hi>Locks</hi> made in the <hi>Weares,</hi> to Carry up the <hi>Barges;</hi> nor no <hi>Fords</hi> Spoyl'd, they being Deep enough already, to Carry-up <hi>Flat-Boats;</hi> and the <hi>Fords</hi> upon the River <hi>Darwent,</hi> are Deeper than Thoſe upon the River <hi>Trent;</hi> which River is already Navigable.</p>
+            <list>
+               <item>
+                  <note place="margin">Some Pla<g ref="char:EOLhyphen"/>ces, that have Petiti<g ref="char:EOLhyphen"/>on'd for the Navigation.</note>The High Sheriff, Deputy-Lieutenants, Grand Jury, and Gentry of the County of <hi>Cheſter,</hi> at their laſt General Quarter-Seſſions, held for the ſaid County: The Salt-makers, Salt-Car<g ref="char:EOLhyphen"/>riers, and other Inhabitants of the Town of <hi>Namptwich</hi> and <hi>Middlewich,</hi> have Petition'd, That the River <hi>Darwent</hi> may be made Navigable.</item>
+               <item>The Mayor, Aldermen, Gentlemen, Cheeſe-Factors, Pot-makers, and the Inhabitants of the Town of <hi>New-Caſtle,</hi> in the County of <hi>Stafford,</hi> have Petitioned for the ſame.</item>
+               <item>The Gentlemen, Tradeſmen, Cheeſe-Factors, and Inhabitants of the Market-Town of <hi>Uttoxiter,</hi> in the ſaid County of <hi>Stafford,</hi> have likewiſe Petitioned for the ſame.</item>
+               <item>The Bayliffs, Sheriffs, Aldermen, Juſtices of the Peace, Gentlemen, Tradeſmen, and Inhabitants of the City and County of <hi>Litchfield,</hi> have likewiſe
+<hi>Petitioned</hi> for the ſame.</item>
+               <item>The Bayliffs, Gentlemen, Cloath-workers, and Inhabitants of the Antient Burrough of<hi>Burton,</hi> in the County of <hi>Stafford,</hi> have likewiſe <hi>Petitioned</hi> for the ſame.</item>
+               <item>The Gentlemen, Gun-ſmiths, White-ſmiths, Lock-ſmiths, Cutlers, Sword-ſlippers, Nailors, &amp; other Tradeſmen of the Market-Town of <hi>Birmingham,</hi> in the County of <hi>Warwick,</hi> have Petition'd for the ſame.</item>
+               <item>The Gentlemen, Tradeſmen, Freeholders, and Inhabitants of the Market-Town of <hi>Atherſon,</hi> in the ſaid County of <hi>VVarwick,</hi> have likewiſe
+<hi>Petitioned</hi> for the ſame.</item>
+               <item>The Gentlemen, Tradeſmen, and Inhabitants of the Market-Town of <hi>Aſhby de la Zouch,</hi> in the County of <hi>Leiceſter,</hi> have likewiſe <hi>Petitioned</hi> for the ſame.</item>
+               <item>The Gentlemen, Tradeſmen, Freeholders, Farmers, &amp; Inhabitants of the Market-Towns of <hi>Loughbrorough</hi> &amp; <hi>Kegworth,</hi> in the ſaid County of
+<hi>Leiceſter,</hi> have Petitioned for the ſame.</item>
+               <item>The High-Sheriff, Juſti<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s of the Peace, ſeveral Deputy Lieutenants, at the laſt General Quarter Seſſions, held for the County of <hi>Derby,</hi> have likewiſe <hi>Petitioned</hi> for the ſame.</item>
+               <item>The Knights, Gentlem<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Tradeſmen, Lead-Merchants, Miners, Grovers, Freeholders, Farmers, and others of the ſeveral Market and Fair Towns of <hi>Derby, VVorks-worth, Aſh<g ref="char:EOLhyphen"/>borne, Crich,</hi> and <hi>Duffe<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d,</hi> and other Townſhips and Villages, <hi>viz. Carſon, Middleton, Cromford, Hopton, Cawlow, Bradborn, Kniveton;</hi> And the Gentry and others of the Hun<g ref="char:EOLhyphen"/>dred of <hi>High-Peake,</hi> in t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> County of <hi>Derby,</hi> have like<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſe Petition'd for the ſame.</item>
+               <item>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <hi>London</hi> and <hi>Weſtminſt<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r,</hi> have likewiſe Petition'd for the ſame.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
